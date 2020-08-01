@@ -1,14 +1,10 @@
-### 👋 Welcome to my corner!
-⚡⚡⚡
+# 👋 Welcome to my corner! 👋
 
 
 
 
 
-
-
-
-
+# Follow me
 
 👉 [António Campos @gist](https://gist.github.com/antoniocampos)
 
@@ -19,3 +15,5 @@
 👉 [António Campos @facebook](https://www.facebook.com/jantoniofcampos)
 
 👉 [António Campos @stackoverflow](https://stackoverflow.com/users/953215/ant%c3%b3nio-campos)
+
+# :wq!
